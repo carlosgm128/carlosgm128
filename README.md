@@ -18,7 +18,7 @@ I'm a Full Stack Engineer from **Santo Domingo, Dominican Republic** 🇩🇴 wi
 
 - 🏢 Currently: Software Engineer at **Newtech**, building test automation and AI agents
 - ☁️ Led migrations from monoliths to **microservices** and **serverless** on AWS, and cut cloud costs by 10%
-- 🤖 Into **AI engineering**: agents, RAG, and ML classification models
+- 🤖 Into **AI engineering** & **Data engineering**: agents, RAG, and ML classification models
 - 🌎 Open to remote work, overlapping with US time zones · 🗣️ Spanish (native), English (professional)
 - 📫 Reach me at **me@augusto**
 
