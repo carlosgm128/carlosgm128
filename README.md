@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:carlosgm128@gmail.com"><img src="https://img.shields.io/badge/Email-carlosgm128%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:me@augusto.zip"><img src="https://img.shields.io/badge/Email-carlosgm128%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/carlosgm128"><img src="https://img.shields.io/badge/LinkedIn-carlosgm128-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://augusto.zip"><img src="https://img.shields.io/badge/Website-augusto.zip-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="https://github.com/carlosgm128"><img src="https://img.shields.io/github/followers/carlosgm128?label=Follow&style=for-the-badge&logo=github" alt="GitHub followers"/></a>
